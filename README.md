@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🦞 TokenForge-CLI</h1>
+  <h1 align="center"> TokenForge-CLI</h1>
   <p align="center"><strong>Lightweight Terminal LLM Token Intelligent Compression Engine</strong></p>
   <p align="center">轻量级终端LLM Token智能压缩引擎</p>
 </p>
